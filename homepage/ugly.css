@@ -1,0 +1,113 @@
+.sidenav{
+    background-color: #1900ff;
+    height: 100%;
+    width: 22%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 3%;
+    overflow-x: hidden;
+    padding-top: 20px;
+    -moz-box-shadow:    200px 0 8px 0 #01d158;
+    -webkit-box-shadow: 200px 0 8px 0 #bbff01;
+    box-shadow:         200px 0 8px 0 #cffd00;
+    transform: rotate(-3deg);
+}
+
+.main{
+    margin-left: 50%;
+    padding: 50px 10px;
+    background-color: red;
+    transform: rotate(40deg);
+}
+body {
+    background-color: #00ff22 ;
+    font-family: consolas;
+    font-size: 20pt;
+    margin: auto;
+    width: 75%;
+    text-align: justify;
+}
+img {
+    border-radius: 0%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    border: 22px solid #ff00d4;
+    transform: rotate(33deg);
+}
+
+h1{
+    text-align: center;
+    font-size: 40pt;
+    color: #3c3d42;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+}
+h1.page-header {
+    margin: 0;
+    padding: 0;
+  }
+
+h2{
+    text-align: left;
+    font-size: 24pt;
+    color: #3c3d42;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+}
+h3{
+    text-align: right;
+    font-size: 16pt;
+    color: #002aff;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+h4{
+    text-align: center;
+    font-size: 10pt;
+    color: #3c3d42;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+    padding-top: 0;
+    margin-top: 0;
+}
+h5{
+    text-align: right;
+    font-size: 24pt;
+    color: rgb(255, 255, 255);
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+    padding-top: 0;
+    margin-top: 0;
+}
+h6{
+    text-align: left;
+    font-size: 16pt;
+    color: #ffffff;
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    margin-left: 5%;
+}
+p{
+    text-align: left;
+    font-size: 20pt;
+    color: #3c3d42;
+    font-family: 'Brush Script MT', cursive;
+}
+
+li{
+    text-align: right;
+    font-size: 12pt;
+    color: #3c3d42;
+    font-family: 'Brush Script MT', cursive;
+}
+
+a{
+    color: #470097;
+    text-decoration: underline;
+}

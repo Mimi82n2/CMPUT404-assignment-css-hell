@@ -17,6 +17,14 @@
     margin-left: 25%;
     padding: 0px 10px;
 }
+body {
+    background-color: #ffffff ;
+    font-family: consolas;
+    font-size: 13pt;
+    margin: auto;
+    width: 75%;
+    text-align: justify;
+}
 
 img {
     border-radius: 50%;
