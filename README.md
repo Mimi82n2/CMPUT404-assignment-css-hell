@@ -5,6 +5,10 @@ Assignment: CSS Hell
   > `<link rel="stylesheet" href="style.css">`
 - I also deleted some of the styles they had originally for hyperlinks
 
+Resources used
+ - https://www.w3schools.com/howto/howto_css_image_center.asp
+ - https://stackoverflow.com/questions/9044479/having-a-shadow-on-my-sidebar
+
 You will skin 3 project gutenberg stories with custom CSS.
 
 You will skin 2 versions of a possible professional homepage for your
