@@ -1,5 +1,9 @@
 Assignment: CSS Hell
 ====================
+- Changes to gutenberg html files
+  Add the following right above the tag </head> so that it overwrites the other styles.  
+  > `<link rel="stylesheet" href="style.css">`
+- I also deleted some of the styles they had originally for hyperlinks
 
 You will skin 3 project gutenberg stories with custom CSS.
 
